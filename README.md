@@ -2,7 +2,7 @@
 
 **`Software Engineer (Web Developer/Front-End Developer/Designer)`**
  
-Aybat is a frontend developer from Kazakhstan who turns design into interactivity! In his free time, he explores the world, watches cartoons, plays football and participates in local developer communities.
+
 
 <h2>🧰 Languages and Tools</h2>
  
